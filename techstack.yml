@@ -1,7 +1,8 @@
 repo_name: jmbenedetto/qlik_automations
 report_id: a30c30ba527f353b6d73f4a716bd7596
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T12:26:20+00:00'
+timestamp: '2024-01-05T08:46:24+00:00'
 requested_by: jmbenedetto
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jmbenedetto/qlik_automations
   detection_source: Repo Metadata
